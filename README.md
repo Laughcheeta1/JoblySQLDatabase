@@ -22,5 +22,6 @@ And the employers could make chats with the providers they deem interesting, to 
 The repository includes all the steps parts of the proyect we made, from the initial entity relationship diagram, to the querys.
 
 ### Notes: 
+* Theres a lot of things in spanish since although I love english, we still in Colombia.
 * Not including the logic diagram since the visual diagram of the database is more up to date, and provides more information (in my opinion).
 * Will include the sql query for the database instead of the whole database as a .bac file, that way there may be less problems with SQL server versions (or if not in SQLserver, run the creation querys directly).

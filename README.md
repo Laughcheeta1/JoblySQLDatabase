@@ -2,6 +2,8 @@
 This is the repository of the SQL scripts made for a Project in the Databases Class.
 The specific database engine used for the proyect (and the class) is SQL Server
 
+To be able to see the diagrams visit <a href="https://app.diagrams.net">draw.io</a> (You could download their app as well).
+
 ## The participants in the proyect were:
 - David Betancur
 - Pablo Garcia
